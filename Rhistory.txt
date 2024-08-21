@@ -1,0 +1,23 @@
+ratings_snapshot_latest <- read_delim("ratings-snapshot-latest.csv",
+delim = "|", escape_double = FALSE, trim_ws = TRUE)
+View(ratings_snapshot_latest)
+library(readr)
+rating_snapshots <- read_delim("rating-snapshots.csv",
+delim = "|", escape_double = FALSE, trim_ws = TRUE)
+library(readr)
+tournaments_separated <- read_csv("tournaments_separated.csv")
+View(tournaments_separated)
+df <- read.csv("rating_snapshot_latest.csv", header = FALSE, stringsAsFactors = FALSE)
+df <- read.csv("ratings_snapshot_latest.csv", header = FALSE, stringsAsFactors = FALSE)
+df <- read.csv("ratings-snapshot-latest.csv", header = FALSE, stringsAsFactors = FALSE)
+View(df)
+new_header <- c("Id", "Standard Event", "Year", "Week", "Rating", "Rating Deviation", "Volatility")
+df <- rbind(new_header, df)
+colnames(df) <- df[1, ]
+df <- read.csv("your_file.csv", header = FALSE, sep = "|", stringsAsFactors = FALSE)
+df <- read.csv("ratings-snapshot-latest.csv", header = FALSE, sep = "|", stringsAsFactors = FALSE)
+# Set the new header row as column names
+colnames(df) <- new_header
+write.csv(df, "modified_file.csv", row.names = FALSE, sep = "|")
+write.csv(df, "raings-snapshot-latest.csv", row.names = FALSE, sep = "|")
+
