@@ -21,3 +21,27 @@ colnames(df) <- new_header
 write.csv(df, "modified_file.csv", row.names = FALSE, sep = "|")
 write.csv(df, "raings-snapshot-latest.csv", row.names = FALSE, sep = "|")
 
+
+setwd("/Users/brandonlee/Documents/UBX_World/UBX-Data-With-Headers")
+library(readr)
+raings_snapshot_latest <- read_csv("raings-snapshot-latest.csv")
+View(raings_snapshot_latest)
+setwd("/Users/brandonlee/UBX/UBX_World/UBX-Data-With-Headers")
+df <- read.csv("tournaments_separated.csv", stringsAsFactors = FALSE)
+View(df)
+View(df)
+df <- df %>%
+mutate(Tier = ifelse(grepl("Junior", Label), "B", Tier))
+library(dplyr)
+df <- df %>%
+mutate(Tier = ifelse(grepl("Junior", Label), "B", Tier))
+df <- df %>%
+mutate(Tier = ifelse(grepl("World University Championship", Name), "A", Tier))
+df <- df %>%
+mutate(Tier = ifelse(grepl("Boston Open", Name), "C", Tier))
+df <- df %>%
+mutate(Tier = ifelse(grepl("BWF Tour Super 100", Label), "A", Tier))
+write.csv(df, "tournaments_separated.csv", row.names = FALSE)
+
+
+
