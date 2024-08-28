@@ -7,3 +7,15 @@ Bay Badminton Burlingame | ID: 4, 33, 88, 141,
 Bay Badminton Center Milpitas | ID: 409, 423
 
 Orange County Badminton Club | ID: 8, 134, 259, 1200, 28, 38, 
+
+Ajax High School | ID: 9, 21
+
+Kelowna Badminton Club | ID: 12, 51
+
+Brushy Creek Community Center | ID: 16, 881
+
+NETS & TURF | ID: 1231, 1242, 1294, 1329, 1387
+
+MIT Rockwell Cage | ID: 27, 75, 138, 353, 524, 
+
+Bintang | ID: 533(mispelled as badmitnon), 
