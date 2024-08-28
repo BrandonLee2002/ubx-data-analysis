@@ -18,4 +18,13 @@ NETS & TURF | ID: 1231, 1242, 1294, 1329, 1387
 
 MIT Rockwell Cage | ID: 27, 75, 138, 353, 524, 
 
-Bintang | ID: 533(mispelled as badmitnon), 
+Bintang Milpitas | ID: 533(mispelled as badmitnon), 360, 439, 
+
+Bintang Badminton SSF (closed in 2020) | ID: 79, 116, 117, 256, 288, 412, 493, 641
+
+Texins Activity Centers | ID: 29, 142
+
+John Bowne High School | ID: 32, 69, 86, 255, 541,
+
+Ryerson Kerr Hall Gym | ID: 36, 63, 151, 305, 324
+
