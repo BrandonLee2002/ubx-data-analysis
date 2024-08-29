@@ -28,3 +28,15 @@ John Bowne High School | ID: 32, 69, 86, 255, 541,
 
 Ryerson Kerr Hall Gym | ID: 36, 63, 151, 305, 324
 
+Durham College | ID: 39 (no address, unsure), 756, 900
+
+Athletic Centre (U of T) | ID: 40, 43, 45
+
+Manhattan Beach Badminton Club | ID: 41, 446
+
+ZBTC (known as EBC) | ID: 44, 95
+
+University Of Arizona Recreation Center | ID: 990, 1093, 1228
+
+UT Arlington - Maverick Center | ID: 46, 97, 159, 272
+
