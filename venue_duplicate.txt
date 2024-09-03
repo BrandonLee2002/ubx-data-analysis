@@ -104,6 +104,12 @@ Richmond Pro Badminton Centre | ID: 174, 249, 1022
 
 Cambie Secondary School | ID: 100, 187
 
+Valley Forge Baptist Temple | ID: 262, 418
+
+Cleveland Convention Center | ID: 264, 537
+
+
+
 
 
 
