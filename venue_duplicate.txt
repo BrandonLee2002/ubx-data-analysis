@@ -26,11 +26,11 @@ Texins Activity Centers | ID: 29, 142
 
 John Bowne High School | ID: 32, 69, 86, 255, 541,
 
-Ryerson Kerr Hall Gym | ID: 36, 63, 151, 305, 324
+Ryerson Kerr Hall Gym | ID: 36, 63, 151, 305, 324, 54, 718, 1358, 1375
 
 Durham College | ID: 39 (no address, unsure), 756, 900
 
-Athletic Centre (U of T) | ID: 40, 43, 45
+Athletic Centre (University of Toronto) | ID: 40, 43, 45, 103
 
 Manhattan Beach Badminton Club | ID: 41, 446
 
@@ -39,4 +39,55 @@ ZBTC (known as EBC) | ID: 44, 95
 University Of Arizona Recreation Center | ID: 990, 1093, 1228
 
 UT Arlington - Maverick Center | ID: 46, 97, 159, 272
+
+CP Badminton Club | ID: 47, 81, 98
+
+UCLA Student Activities Center | ID: 49, 473, 836, 1221
+
+Fonde Recreation Center | ID: 52, 394
+
+TAS Secondary School | ID: 53, 62
+
+Bellevue badminton club (13405 se 30th street) | ID: 57, 104, 115, 
+
+Bellevue Badminton Club (Harbour Pointe) | ID: 1123, 1340, 
+
+Bellevue Badminton Club -- Renton | ID: 991, 1458
+
+TAS Secondary School | ID: 53, 62
+
+California Badminton Academy (acquired by Synergy, now called Fremont Mission) | ID: 66, 267, 663
+
+Kingston Collegiate & Vocational Institute | ID: 67, 120, 237, 741
+
+Purdue Recreation & Wellness | ID: 693, 812, 
+
+Los Angeles Badminton Club | ID: 77, 84, 215, 
+
+Boston Badminton Club | ID: 82, 147, 763, 367, 109 (typo), 
+
+Richmond Olympic Oval | ID: 91, 150, 263
+
+Richmond Pro Badminton Centre | ID: 174, 249, 1022
+
+University of Rochester Georgen Gymnasium | ID: 101, 124, 465
+
+UNC Fetzer Gym | ID: 106, 410
+
+UNCG Middle College | ID: 1174, 1327
+
+Bryn Mawr College - Schwartz Gym | ID: 110, 331
+
+North Gym, University of Maryland | ID: 114, 221, 
+
+SGVBC Pomona | ID: 119, 700, 897, 377 (unsure about this one),
+
+
+
+
+
+
+
+
+
 
