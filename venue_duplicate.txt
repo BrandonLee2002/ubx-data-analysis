@@ -88,6 +88,20 @@ Atlanta Recreation club (Pine Grove Rd) | ID: 970, 1006, 1047
 
 University of Central Oklahoma- Wellness Center | ID: 136, 230
 
+Badminton Center Court (Lakewood) | ID: 144, 200, 236
+
+San Diego Badminton Center Court | ID: 597, 614
+
+International Badminton Center (Edison) | ID: 148, 1286, 959
+
+IBC (Pine Brook) | ID: 1007, 1043, 1176, 
+
+LONG ISLAND BADMINTON CENTER | ID: 1120, 1186, 1211, 1241, 1253
+
+NJ Badminton Club | ID: 166, 290, 1067, 1138
+
+
+
 
 
 
