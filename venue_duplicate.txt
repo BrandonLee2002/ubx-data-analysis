@@ -1,6 +1,6 @@
-Shula's Hotel and Golf Club | ID: 2, 61
+Shula's Hotel and Golf Club | ID: 2, 61, 191 (no address, just city)
 
-Shula's Athletic CLub | ID: 51, 646
+Shula's Athletic CLub | ID: 51, 646, 1334
 
 Bay Badminton Burlingame | ID: 4, 33, 88, 141, 
 
@@ -36,7 +36,7 @@ Manhattan Beach Badminton Club | ID: 41, 446
 
 ZBTC (known as EBC) | ID: 44, 95
 
-University Of Arizona Recreation Center | ID: 990, 1093, 1228
+University Of Arizona Recreation Center | ID: 139, 335 (typo), 990, 1093, 1228, 1258, 1391
 
 UT Arlington - Maverick Center | ID: 46, 97, 159, 272
 
@@ -81,6 +81,13 @@ Bryn Mawr College - Schwartz Gym | ID: 110, 331
 North Gym, University of Maryland | ID: 114, 221, 
 
 SGVBC Pomona | ID: 119, 700, 897, 377 (unsure about this one),
+
+UBC (closed in 2020, new gym opened as Happy Birdie) | ID: 126, 590, 
+
+Atlanta Recreation club (Pine Grove Rd) | ID: 970, 1006, 1047
+
+University of Central Oklahoma- Wellness Center | ID: 136, 230
+
 
 
 
