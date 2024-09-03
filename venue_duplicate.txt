@@ -70,7 +70,7 @@ Richmond Olympic Oval | ID: 91, 150, 263
 
 Richmond Pro Badminton Centre | ID: 174, 249, 1022
 
-University of Rochester Georgen Gymnasium | ID: 101, 124, 465
+University of Rochester Georgen Gymnasium | ID: 101, 124, 465, 108, 286, 426
 
 UNC Fetzer Gym | ID: 106, 410
 
@@ -78,7 +78,7 @@ UNCG Middle College | ID: 1174, 1327
 
 Bryn Mawr College - Schwartz Gym | ID: 110, 331
 
-North Gym, University of Maryland | ID: 114, 221, 
+North Gym, University of Maryland | ID: 114, 221, 320, 593, 1263, 1422
 
 SGVBC Pomona | ID: 119, 700, 897, 377 (unsure about this one),
 
@@ -99,6 +99,13 @@ IBC (Pine Brook) | ID: 1007, 1043, 1176,
 LONG ISLAND BADMINTON CENTER | ID: 1120, 1186, 1211, 1241, 1253
 
 NJ Badminton Club | ID: 166, 290, 1067, 1138
+
+Richmond Pro Badminton Centre | ID: 174, 249, 1022
+
+Cambie Secondary School | ID: 100, 187
+
+
+
 
 
 
