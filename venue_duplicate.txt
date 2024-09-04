@@ -30,7 +30,7 @@ Ryerson Kerr Hall Gym | ID: 36, 63, 151, 305, 324, 54, 718, 1358, 1375
 
 Durham College | ID: 39 (no address, unsure), 756, 900
 
-Athletic Centre (University of Toronto) | ID: 40, 43, 45, 103
+Athletic Centre (University of Toronto) | ID: 40, 43, 45, 103, 266
 
 Manhattan Beach Badminton Club | ID: 41, 446
 
@@ -107,6 +107,32 @@ Cambie Secondary School | ID: 100, 187
 Valley Forge Baptist Temple | ID: 262, 418
 
 Cleveland Convention Center | ID: 264, 537
+
+ClearOne Badminton Centre - Orlando | ID: 273, 390, 442, 542, 604, 688, 841
+
+Carmichael Gymnasium (NC State) | ID: 289, 467
+
+Eastbay Badminton Association (EBA) | ID: 295, 973, 
+
+Kimberton Badminton Club | ID: 308, 629
+
+Synergy Badminton (Menlo Park) | ID: 316, 610, 1297, 1408, 1431
+
+Synergy Badminton (Fremont) | ID: 1131, 1157, 1262, 1408, 1431
+
+Thomas A Stewart Secondary School | ID: 3, 318
+
+Midwest Badminton Club (Naperville) | ID: 321, 375, 384, 1012, 1274, 1309, 1368, 1378, 1404,
+
+Midwest Badminton Club (Woodridge) | ID: 1062, 1087, 1261, 1293
+
+Midwest Badminton Club (Buffalo Grove) | ID: 1441, 1280,
+
+U.C. Berkeley Recreational Sports Facility | ID: 322, 454, 
+
+Shannon Pohl Badiminton Academy | ID: 328, 413, 631, 918, 1299
+
+
 
 
 
