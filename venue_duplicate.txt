@@ -132,6 +132,11 @@ U.C. Berkeley Recreational Sports Facility | ID: 322, 454,
 
 Shannon Pohl Badiminton Academy | ID: 328, 413, 631, 918, 1299
 
+Egret Badminton Club (Schaumburg) | ID: 347, 487, 501, 539, 594, 793, 1016, 1105
+
+Egret Badminton Club (Naperville) | ID: 1013, 1173, 1328
+
+
 
 
 
