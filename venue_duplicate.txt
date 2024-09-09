@@ -136,6 +136,41 @@ Egret Badminton Club (Schaumburg) | ID: 347, 487, 501, 539, 594, 793, 1016, 1105
 
 Egret Badminton Club (Naperville) | ID: 1013, 1173, 1328
 
+Suffolk County Community College | ID: 361, 370
+
+Champions FieldHouse | ID: 365, 380
+
+George R. Brown Convention Center | ID: 85, 371
+
+Northside Aztlan Community Center | ID: 376, 558
+
+Smashville (Pottstown) | ID: 385, 681, 873, 893
+
+Smashville (King of Prussia) | ID: 996, 1014, 1064
+
+Triangle Badminton Club | ID: 829, 876
+
+Triangle Badminton and Table Tennis | ID: 1036, 1065, 1136
+
+NVBC | ID: 415, 420
+
+Zornow Courts in the Goergen Athletic Center | ID: 426, 465
+
+ESTERO RECREATION CENTER | ID: 436, 561
+
+Maugus Club, | ID: 437, 527, 772
+
+Lucky Shoals Park | ID: 149, 445
+
+Northside Aztlan Community Center | ID: 376, 451, 558
+
+Leonard Recretion Center | ID: 457, 563
+
+Charlotte Badminton Club | ID: 476, 586
+
+
+
+
 
 
 
