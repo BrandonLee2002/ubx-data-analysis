@@ -1,2 +1,83 @@
 *.csv
 .DS_Store
+
+# Ignore the .venv and .idea directories inside UBX_World
+UBX_World/.venv/
+UBX_World/.idea/
+
+# Byte-compiled / optimized / DLL files
+UBX_World/__pycache__/
+UBX_World/*.py[cod]
+UBX_World/*$py.class
+
+# C extensions
+UBX_World/*.so
+
+# Distribution / packaging
+UBX_World/.Python
+UBX_World/build/
+UBX_World/develop-eggs/
+UBX_World/dist/
+UBX_World/downloads/
+UBX_World/eggs/
+UBX_World/.eggs/
+UBX_World/lib/
+UBX_World/lib64/
+UBX_World/parts/
+UBX_World/sdist/
+UBX_World/var/
+UBX_World/wheels/
+UBX_World/*.egg-info/
+UBX_World/.installed.cfg
+UBX_World/*.egg
+
+# PyInstaller
+UBX_World/*.manifest
+UBX_World/*.spec
+
+# Installer logs
+UBX_World/pip-log.txt
+UBX_World/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+UBX_World/htmlcov/
+UBX_World/.tox/
+UBX_World/.nox/
+UBX_World/.coverage
+UBX_World/.coverage.*
+UBX_World/.cache
+UBX_World/nosetests.xml
+UBX_World/coverage.xml
+UBX_World/*.cover
+UBX_World/*.py,cover
+UBX_World/.hypothesis/
+UBX_World/.pytest_cache/
+
+# Translations
+UBX_World/*.mo
+UBX_World/*.pot
+
+# Django stuff:
+UBX_World/*.log
+UBX_World/local_settings.py
+
+# Flask stuff:
+UBX_World/instance/
+UBX_World/.webassets-cache
+
+# Scrapy stuff:
+UBX_World/.scrapy
+
+# Sphinx documentation
+UBX_World/docs/_build/
+
+# Jupyter Notebook files
+UBX_World/.ipynb_checkpoints
+
+# MyPy
+UBX_World/.mypy_cache/
+UBX_World/.dmypy.json
+UBX_World/dmypy.json
+
+# Pyre
+UBX_World/.pyre/
