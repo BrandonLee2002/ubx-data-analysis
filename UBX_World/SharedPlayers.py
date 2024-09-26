@@ -10,7 +10,7 @@ data_out_path = Path(__file__).parent / 'data-out'
 file_path = data_in_path / 'tournaments_separated.csv'
 tournament_df = pd.read_csv(file_path)
 
-# Step 1: Build the inverted index of player IDs to tournaments
+# Building the inverted index of player IDs to tournaments
 player_tournament_map = defaultdict(set)
 
 #creating the map for tournaments
