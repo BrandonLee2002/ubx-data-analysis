@@ -2,10 +2,9 @@ import pandas as pd
 import networkx as nx
 from pathlib import Path
 
-from SharedPlayers import tournament1, shared_players
 
 data_out_path = Path(__file__).parent / 'data-out'
-file_path = data_out_path / 'SharedPlayers.csv'
+file_path = data_out_path / 'SharedPlayers2.csv'
 
 #loading data
 df = pd.read_csv(file_path)

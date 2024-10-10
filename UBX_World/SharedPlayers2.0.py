@@ -56,8 +56,7 @@ for (tournament1, tournament2), shared_players in tournament_connections.items()
 output_df = pd.DataFrame(output_data)
 
 # Save the output to a CSV file in the data_out_path
-output_df.to_csv(data_out_path / 'SharedPlayers.csv', index=False)
+output_df.to_csv(data_out_path / 'SharedPlayers2.csv', index=False)
 
 # Print the first few rows of the original DataFrame
 print(tournament_df.head())
-
