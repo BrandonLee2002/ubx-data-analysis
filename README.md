@@ -1,3 +1,3 @@
-# ubx-data-analysis
+# Brandon Lee ubx-data-analysis
 
-Testing for Github Pages
+Here is all the projects that I had worked on during my internship with UBX World!
